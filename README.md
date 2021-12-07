@@ -5,7 +5,13 @@
 
 
 
-**December 2021**
+**What is CCPN?**
+
+The CCPN, established by a group of early-career researchers, has taken initiatives to foster computational psychiatry (CP) research in China. The CCPN organizes [a weekly CP journal club](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club), [monthly CP seminar](https://mp.weixin.qq.com/s?__biz=Mzg3NDU1MTU4Mw==&mid=2247484699&idx=1&sn=b3e5d8d6b438263652dc5134a157d858&chksm=cece456bf9b9cc7dfd4962d28d4ba264d9869be9d56d890b8865ee28d03d5acef98aa67dd764&token=2070582871&lang=zh_CN#rd), [quarterly CP hack](https://www.heywhale.com/home/competition/612310e47db76d0017825f3b/?from=cp)/[workshop](https://mp.weixin.qq.com/s?__biz=Mzg3NDU1MTU4Mw==&mid=2247483711&idx=1&sn=04143fc44b6cc269cb6ce947fe45f98b&chksm=cece414ff9b9c85992871b9af24bbbb5f8ceefa953efc26db5a29f3ed5b281fa469a53f0aeb7&token=2070582871&lang=zh_CN#rd), and yearly CP conference(planning, at the beginning of 2022). The goal of CCPN is to introduce trainees into CP and foster active, inclusive, and supportive interaction among CP communities within and beyond China. 
+
+
+
+**CCPN Calendar of December 2021**
 
 | Mon                                                          | Tue                                                          | Wed                                                          | Thu                                                          | Fri                              | Sat                         | Sun  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | --------------------------- | ---- |
@@ -14,6 +20,8 @@
 | 13, [NeuroDL, 20:00](https://github.com/XBTinChina/NeuroDL_Weekly_disscussion_group) | 14, [CCNoRC2.0-06, 20:00, Private](https://www.heywhale.com/home/competition/61727cdca3ee260017c0e079) | 15                                                           | 16, [CPoJC-21, 20:00](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club) | 17                               | 18                          | 19   |
 | 20, [NeuroDL, 20:00](https://github.com/XBTinChina/NeuroDL_Weekly_disscussion_group) | 21, [CCNoRC2.0-07, 20:00, Private](https://www.heywhale.com/home/competition/61727cdca3ee260017c0e079) | 22, [CP Seminar-04, 21:00]()                                 | 23, [CPoJC-22, 20:00](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club) | 24, [NeuroDL圣诞特辑-时间待定]() | 25, [COSN圣诞特辑, 21:00]() | 26   |
 | 27                                                           | 28                                                           | 29                                                           | 30, [CPoJC-23, 20:00](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club) | 31                               |                             |      |
+
+
 
 **The milestones of CCPN:**
 
