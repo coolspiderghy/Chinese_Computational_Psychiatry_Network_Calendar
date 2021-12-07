@@ -1,2 +1,15 @@
 # Chinese_Computational_Psychiatry_Network_Calendar
-This is a calendar recording events organized by Chinese Computational Psychiatry Network(CCPN), NeuroDL and Chinese Open Science Network(COSN)
+
+
+This is a calendar recording events organized by [Chinese Computational Psychiatry Network,网站建设中](), [NeuroDL](https://github.com/XBTinChina/NeuroDL_Weekly_disscussion_group), [Chinese Open Science Network](https://open-sci.cn/)
+
+**December 2021**
+
+| Mon                                                          | Tue                                                          | Wed                                                          | Thu                                                          | Fri                              | Sat                         | Sun  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | --------------------------- | ---- |
+|                                                              |                                                              | 1                                                            | 2                                                            | 3                                | 4                           | 5    |
+| 6                                                            | 7, [CCNoRC2.0-05, 20:00, Private](https://www.heywhale.com/home/competition/61727cdca3ee260017c0e079) | 8, [CP Seminar-03, 20:00](https://mp.weixin.qq.com/s?__biz=Mzg3NDU1MTU4Mw==&mid=2247485019&idx=1&sn=aacf177a9a56b0263eb114eccce456dc&chksm=cece462bf9b9cf3d2ca929e966e6c1c05ab39089f90832d139675c24fe48b24feb06f3331a7e&token=2070582871&lang=zh_CN#rd) | 9, [CPoJC-20, 20:00](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club) | 10                               | 11                          | 12   |
+| 13, [NeuroDL, 20:00](https://github.com/XBTinChina/NeuroDL_Weekly_disscussion_group) | 14, [CCNoRC2.0-06, 20:00, Private](https://www.heywhale.com/home/competition/61727cdca3ee260017c0e079) | 15                                                           | 16, [CPoJC-21, 20:00](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club) | 17                               | 18                          | 19   |
+| 20, [NeuroDL, 20:00](https://github.com/XBTinChina/NeuroDL_Weekly_disscussion_group) | 21, [CCNoRC2.0-07, 20:00, Private](https://www.heywhale.com/home/competition/61727cdca3ee260017c0e079) | 22, [CP Seminar-04, 21:00]()                                 | 23, [CPoJC-22, 20:00](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club) | 24, [NeuroDL圣诞特辑-时间待定]() | 25, [COSN圣诞特辑, 21:00]() | 26   |
+| 27                                                           | 28                                                           | 29                                                           | 30, [CPoJC-22, 20:00](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club) | 31                               |                             |      |
+
